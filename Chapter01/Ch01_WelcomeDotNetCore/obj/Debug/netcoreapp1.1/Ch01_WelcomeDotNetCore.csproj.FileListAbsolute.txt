@@ -1,0 +1,9 @@
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.deps.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.runtimeconfig.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.dll
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.pdb
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.dll
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp1.1\Ch01_WelcomeDotNetCore.pdb

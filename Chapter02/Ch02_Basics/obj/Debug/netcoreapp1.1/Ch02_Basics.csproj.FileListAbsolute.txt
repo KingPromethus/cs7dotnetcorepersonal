@@ -1,0 +1,9 @@
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.deps.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.runtimeconfig.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.runtimeconfig.dev.json
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.dll
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.pdb
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.AssemblyInfo.cs
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.dll
+C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.pdb
