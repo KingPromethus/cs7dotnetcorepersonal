@@ -1,0 +1,9 @@
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\bin\Debug\netcoreapp1.1\Ch02_Numbers.deps.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\bin\Debug\netcoreapp1.1\Ch02_Numbers.runtimeconfig.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\bin\Debug\netcoreapp1.1\Ch02_Numbers.runtimeconfig.dev.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\bin\Debug\netcoreapp1.1\Ch02_Numbers.dll
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\bin\Debug\netcoreapp1.1\Ch02_Numbers.pdb
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\obj\Debug\netcoreapp1.1\Ch02_Numbers.AssemblyInfo.cs
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\obj\Debug\netcoreapp1.1\Ch02_Numbers.dll
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\obj\Debug\netcoreapp1.1\Ch02_Numbers.pdb
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Numbers\obj\Debug\netcoreapp1.1\Ch02_Numbers.csprojResolveAssemblyReference.cache

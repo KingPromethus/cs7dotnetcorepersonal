@@ -7,3 +7,12 @@ C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreap
 C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.AssemblyInfo.cs
 C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.dll
 C:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.pdb
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.deps.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.runtimeconfig.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.runtimeconfig.dev.json
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.dll
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\bin\Debug\netcoreapp1.1\Ch02_Basics.pdb
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.csprojResolveAssemblyReference.cache
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.AssemblyInfo.cs
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.dll
+A:\Users\Marc\Documents\Coding\C#\Code\Chapter02\Ch02_Basics\obj\Debug\netcoreapp1.1\Ch02_Basics.pdb
