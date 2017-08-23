@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_SelectionStatements", "Ch03_SelectionStatements\Ch03_SelectionStatements.csproj", "{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_CastingConverting", "Ch03_CastingConverting\Ch03_CastingConverting.csproj", "{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
