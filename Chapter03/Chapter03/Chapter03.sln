@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_SelectionStatements", "Ch03_SelectionStatements\Ch03_SelectionStatements.csproj", "{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03_SelectionStatements", "Ch03_SelectionStatements\Ch03_SelectionStatements.csproj", "{155C023D-F3D1-4D68-B6D5-E9603ACD0DA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_CastingConverting", "Ch03_CastingConverting\Ch03_CastingConverting.csproj", "{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03_CastingConverting", "Ch03_CastingConverting\Ch03_CastingConverting.csproj", "{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_IterationStatements", "Ch03_IterationStatements\Ch03_IterationStatements.csproj", "{9C918E9A-71CB-4E98-BDA3-354A19D0A725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_HandlingExceptions", "Ch03_HandlingExceptions\Ch03_HandlingExceptions.csproj", "{F6EB26A4-AFC2-4336-BFE6-B51D41C85DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_CheckingForOverflow", "Ch03_CheckingForOverflow\Ch03_CheckingForOverflow.csproj", "{901ECEBD-F955-4D8B-8102-8BAF1C13EAFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +27,23 @@ Global
 		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70288E9F-D5AE-4EA9-AB3C-FD99D16E8E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C918E9A-71CB-4E98-BDA3-354A19D0A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C918E9A-71CB-4E98-BDA3-354A19D0A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C918E9A-71CB-4E98-BDA3-354A19D0A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C918E9A-71CB-4E98-BDA3-354A19D0A725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EB26A4-AFC2-4336-BFE6-B51D41C85DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EB26A4-AFC2-4336-BFE6-B51D41C85DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EB26A4-AFC2-4336-BFE6-B51D41C85DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EB26A4-AFC2-4336-BFE6-B51D41C85DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901ECEBD-F955-4D8B-8102-8BAF1C13EAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901ECEBD-F955-4D8B-8102-8BAF1C13EAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901ECEBD-F955-4D8B-8102-8BAF1C13EAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901ECEBD-F955-4D8B-8102-8BAF1C13EAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B457D9C3-3F16-458A-A54C-02F24F55BA68}
 	EndGlobalSection
 EndGlobal
